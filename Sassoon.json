@@ -1,9 +1,10 @@
 {
   "spec": 1,
-  "name": "Sassoon Primary",
-  "previewText": "Sassoon Primary Regular font",
+  "name": "Sassoon Primary Regular",
+  "previewText": "Sassoon Primary Regular",
   "main": {
     "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/seiftheman/fonts/d88f6f9396d9068730f3d6439720e08176aedcd8/Sassoon%20Primary%20Regular.ttf",
+
     "ggsans-Bold": "https://raw.githubusercontent.com/seiftheman/fonts/d88f6f9396d9068730f3d6439720e08176aedcd8/Sassoon%20Primary%20Regular.ttf",
     "ggsans-BoldItalic": "https://raw.githubusercontent.com/seiftheman/fonts/d88f6f9396d9068730f3d6439720e08176aedcd8/Sassoon%20Primary%20Regular.ttf",
     "ggsans-ExtraBold": "https://raw.githubusercontent.com/seiftheman/fonts/d88f6f9396d9068730f3d6439720e08176aedcd8/Sassoon%20Primary%20Regular.ttf",
@@ -14,12 +15,14 @@
     "ggsans-NormalItalic": "https://raw.githubusercontent.com/seiftheman/fonts/d88f6f9396d9068730f3d6439720e08176aedcd8/Sassoon%20Primary%20Regular.ttf",
     "ggsans-Semibold": "https://raw.githubusercontent.com/seiftheman/fonts/d88f6f9396d9068730f3d6439720e08176aedcd8/Sassoon%20Primary%20Regular.ttf",
     "ggsans-SemiboldItalic": "https://raw.githubusercontent.com/seiftheman/fonts/d88f6f9396d9068730f3d6439720e08176aedcd8/Sassoon%20Primary%20Regular.ttf",
+
     "NotoSans-Bold": "https://raw.githubusercontent.com/seiftheman/fonts/d88f6f9396d9068730f3d6439720e08176aedcd8/Sassoon%20Primary%20Regular.ttf",
     "NotoSans-ExtraBold": "https://raw.githubusercontent.com/seiftheman/fonts/d88f6f9396d9068730f3d6439720e08176aedcd8/Sassoon%20Primary%20Regular.ttf",
     "NotoSans-Medium": "https://raw.githubusercontent.com/seiftheman/fonts/d88f6f9396d9068730f3d6439720e08176aedcd8/Sassoon%20Primary%20Regular.ttf",
     "NotoSans-Normal": "https://raw.githubusercontent.com/seiftheman/fonts/d88f6f9396d9068730f3d6439720e08176aedcd8/Sassoon%20Primary%20Regular.ttf",
     "NotoSans-NormalItalic": "https://raw.githubusercontent.com/seiftheman/fonts/d88f6f9396d9068730f3d6439720e08176aedcd8/Sassoon%20Primary%20Regular.ttf",
     "NotoSans-Semibold": "https://raw.githubusercontent.com/seiftheman/fonts/d88f6f9396d9068730f3d6439720e08176aedcd8/Sassoon%20Primary%20Regular.ttf",
+
     "SourceCodePro-Semibold": "https://raw.githubusercontent.com/seiftheman/fonts/d88f6f9396d9068730f3d6439720e08176aedcd8/Sassoon%20Primary%20Regular.ttf"
   }
 }
