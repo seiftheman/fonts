@@ -1,0 +1,11 @@
+{
+  "spec": 1,
+  "name": "Bw Helder DEMO W2 Regular",
+  "previewText": "Bw Helder DEMO W2 Regular",
+  "main": {
+    "ggsans-Normal": "https://raw.githubusercontent.com/seiftheman/fonts/main/BwHelderDEMO-W2Regular.otf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/seiftheman/fonts/main/BwHelderDEMO-W2Regular.otf",
+    "ggsans-Semibold": "https://raw.githubusercontent.com/seiftheman/fonts/main/BwHelderDEMO-W2Regular.otf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/seiftheman/fonts/main/BwHelderDEMO-W2Regular.otf"
+  }
+}
