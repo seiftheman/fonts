@@ -3,9 +3,9 @@
   "name": "BW Helder Primary",
   "previewText": "BW Helder Primary",
   "main": {
-    "ggsans-Normal": "https://raw.githubusercontent.com/seiftheman/fonts/main/BW Helder Primary.ttf",
-    "ggsans-Medium": "https://raw.githubusercontent.com/seiftheman/fonts/main/BW Helder Primary.ttf",
-    "ggsans-Semibold": "https://raw.githubusercontent.com/seiftheman/fonts/main/BW Helder Primary.ttf",
-    "ggsans-Bold": "https://raw.githubusercontent.com/seiftheman/fonts/main/BW Helder Primary.ttf"
+    "ggsans-Normal": "https://raw.githubusercontent.com/seiftheman/fonts/main/BWHelderPrimary.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/seiftheman/fonts/main/BWHelderPrimary.ttf",
+    "ggsans-Semibold": "https://raw.githubusercontent.com/seiftheman/fonts/main/BWHelderPrimary.ttf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/seiftheman/fonts/main/BWHelderPrimary.ttf"
   }
 }
