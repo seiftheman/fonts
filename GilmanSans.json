@@ -1,0 +1,11 @@
+{
+  "spec": 1,
+  "name": "Gilman Sans Regular",
+  "previewText": "Gilman Sans Regular",
+  "main": {
+    "ggsans-Normal": "https://raw.githubusercontent.com/seiftheman/fonts/main/GilmanSans.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/seiftheman/fonts/main/GilmanSans.ttf",
+    "ggsans-Semibold": "https://raw.githubusercontent.com/seiftheman/fonts/main/GilmanSans.ttf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/seiftheman/fonts/main/GilmanSans.ttf"
+  }
+}
